@@ -2,6 +2,10 @@
 
 
 
+![image](1.png)
+
+
+
 
 *Good communication within the team is the second most important thing in technical writing.*
 
@@ -15,10 +19,12 @@ Technical writers put together instruction manuals, user guides, frequently aske
 
 Most technical writers work for professional, scientific, and technical services. Some work for manufacturers, administrative and support services, and publishing companies. In each case, a technical writer who creates documentation interview subject matter expert (SME) when they need more information about the product that they will describe. 
 
+![image](2.png)
 
 
 ## Role of SME
 
+![image](3.png)
 
 
 Some simple methods may help to save some time when it comes to dealing with unresponsiveness of SME’s.
@@ -58,6 +64,10 @@ Raise the issue among the wider group of Experts - There are upsides and downsid
 
 
 ## Final conclusions
+
+
+
+![image](4.png)
 
 *Good communication is the key to success.*
 
